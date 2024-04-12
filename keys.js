@@ -1,5 +1,5 @@
 module.exports = {
-    mongoUrl: "mongodb+srv://FlyingPanda730:UgpngUX6DVAx1Xq0@cluster0.ormku05.mongodb.net/?retryWrites=true&w=majority",
+    mongoUrl: "mongodb+srv://midyasouvik34:7egBPoHgQNIsZUQc@cluster0.mg5ixjp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     Jwt_secret: "faslkfocvneofu"
 
 };
